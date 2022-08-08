@@ -1,0 +1,9 @@
+				+-~-~-~-~-~-~-~-~-+
+				|==>Java Arrays<==|
+				+~-~-~-~-~-~-~-~-~+
+
+You cannot just print the array, or you will get a memory location instead of the elements.
+
+To print the elements in the array, you need to loop through the array.
+
+Sometimes, it's easier than you think!
